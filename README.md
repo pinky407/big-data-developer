@@ -15,7 +15,7 @@ LinkedIn Profile : https://www.linkedin.com/in/priyanka-bodapati-214047aa/
 
 
 My Picture
-![Profile-Image.jpg]
+![Profile-Image.jpg](https://github.com/pinky407/big-data-developer/blob/master/Profile-Image.jpg)
 
 
 

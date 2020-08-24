@@ -10,7 +10,7 @@ I am from Andhra Pradesh in India and I did My Bachelor Degree in SSN Engineerin
 I am thinking to go development side.
 
 ## Links: 
-Github Profile : https://github.com/pinky407 
+Github Profile : https://github.com/pinky407
 LinkedIn Profile : https://www.linkedin.com/in/priyanka-bodapati-214047aa/ 
 
 

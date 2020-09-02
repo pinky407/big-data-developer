@@ -9,6 +9,14 @@ I am from Andhra Pradesh in India and I did My Bachelor Degree in SSN Engineerin
 ## Plans: 
 I am thinking to go development side.
 
+## Skills
+
+1. Git Bash
+2. Python
+3. Java
+4. Sql
+5. Process Text Data
+
 ## Links: 
 Github Profile : https://github.com/pinky407
 
